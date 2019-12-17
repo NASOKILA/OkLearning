@@ -1,0 +1,3 @@
+C:\Users\atana\OneDrive\Desktop\OkLearning\OkLearning\Hackathon.Ok_Learning.Backend\Hackathon.Ok_Learning.Backend\obj\Debug\netcoreapp2.2\Hackathon.Ok_Learning.Backend.csproj.CoreCompileInputs.cache
+C:\Users\atana\OneDrive\Desktop\OkLearning\OkLearning\Hackathon.Ok_Learning.Backend\Hackathon.Ok_Learning.Backend\obj\Debug\netcoreapp2.2\Hackathon.Ok_Learning.Backend.AssemblyInfoInputs.cache
+C:\Users\atana\OneDrive\Desktop\OkLearning\OkLearning\Hackathon.Ok_Learning.Backend\Hackathon.Ok_Learning.Backend\obj\Debug\netcoreapp2.2\Hackathon.Ok_Learning.Backend.AssemblyInfo.cs
