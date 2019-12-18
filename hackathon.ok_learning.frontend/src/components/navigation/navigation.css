@@ -1,0 +1,10 @@
+.navigation {
+  background-color: khaki;
+  height: 7rem;
+}
+
+.navlink {
+  padding: 1rem;
+  border: 1px solid black;
+  margin: 1rem;
+}
