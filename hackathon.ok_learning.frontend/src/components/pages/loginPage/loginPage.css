@@ -1,3 +1,37 @@
 .loginPage {
-  background-color: greenyellow;
+  background-color: white;
+  width: 50%;
+  margin: 0 auto;
+  position: relative;
+  padding: 2rem;
+  top: 2rem;
+}
+
+.loginPageHeader {
+  float: right;
+  position: relative;
+  top: 2rem;
+  color: #808080;
+}
+
+.loginPageForm {
+}
+
+.loginPageGoogleLogo {
+  position: relative;
+  right: 1rem;
+  top: 0.3rem;
+}
+
+.loginPageGoogleLogo:hover {
+  cursor: pointer;
+}
+
+.loginPageBottomLinks {
+  text-align: center;
+}
+
+.loginPageImage {
+  position: relative;
+  right: 1rem;
 }

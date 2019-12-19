@@ -17,6 +17,9 @@ const Navigation: FunctionComponent = (props: NavigationProps) => {
         <Link to="/register">Register</Link>
       </Text>
       <Text element="span" className="navlink">
+        <Link to="/forgotpassword">Forgot pass</Link>
+      </Text>
+      <Text element="span" className="navlink">
         <Link to="/main">Main</Link>
       </Text>
       <Text element="span" className="navlink">
